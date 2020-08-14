@@ -1,7 +1,5 @@
 import tkinter as tk
-from tkinter import ttk
-from tkinter import E, X, W
-from tkinter import messagebox
+from tkinter import ttk, messagebox
 import requests
 import socket
 import os
